@@ -1,2 +1,2 @@
 # Movie-Genre
-https://movie-genre-class.herokuapp.com/predict
+https://movie-genre-class.herokuapp.com
